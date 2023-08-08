@@ -1,3 +1,3 @@
 # hellozikri
-Statistical methods (my try and error program)
-I am still learning and I believe there will be parts where I am mistaken or got it wrong.
+statistics, python function, pandas , numpy , scipy are what I have done so far
+I am still learning and I believe there will be parts where I got it wrong. Please go easy
